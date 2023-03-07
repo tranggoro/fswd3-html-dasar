@@ -72,14 +72,14 @@ body {
   .gallery {
     display: inline-block;
     margin: 20px;
-    border: 1px solid #000000;
+    border: 2px solid #5c9af6;
     border-radius: 10px;
     background-color: #aeccf8;
   }
   .gallery-2 {
     display: inline-block;
     margin: 20px;
-    border: 1px solid #000000;
+    border: 2px solid #fcef9b;
     border-radius: 10px;
     background-color: #fffadb;
   }
